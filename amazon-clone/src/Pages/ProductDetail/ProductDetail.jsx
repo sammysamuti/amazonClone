@@ -32,7 +32,6 @@ function ProductDetail() {
           product={product}
           flex={true}
           renderDesc={true}
-          showButtons={true}
           renderAdd={true}
         />
       )}

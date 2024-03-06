@@ -46,7 +46,6 @@ function Cart() {
                     product={item}
                     renderDesc={true}
                     renderAdd={false}
-                    showSize={true}
                     flex={true}
                   />
 
